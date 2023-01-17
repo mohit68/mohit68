@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a full-stack developer with experience in Javascript, Angular, Nodejs, MongoDB, AWS, and Java SpringBoot. I am always eager to learn new technologies and currently diving into Docker to expand my skill set. I enjoy building scalable and efficient web applications and am always open to new challenges. heck out my Github profile to see my projects and contributions.
+ I am a full-stack developer with experience in Javascript, Angular, Nodejs, MongoDB, AWS, and Java SpringBoot. I am always eager to learn new technologies and currently diving into Docker to expand my skill set. I enjoy building scalable and efficient web applications and am always open to new challenges. Check out my Github profile to see my projects and contributions.
 
 
 # 💻 Tech Stack:
