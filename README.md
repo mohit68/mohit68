@@ -1,5 +1,7 @@
 # 💫 About Me:
- I am a full-stack developer with experience in Javascript, Angular, Nodejs, MongoDB, AWS, and Java SpringBoot. I am always eager to learn new technologies and currently diving into Docker to expand my skill set. I enjoy building scalable and efficient web applications and am always open to new challenges. Check out my Github profile to see my projects and contributions.
+ As a Master Thesis Student at Bosch, my current focus lies in refining inferencing on digital twin data from knowledge graphs—a cutting-edge intersection of LLMs and practical applications. My academic journey in Computer Science at RPTU Kaiserslautern-Landau and the University of Kaiserslautern provided me with a robust foundation to innovate and contribute significantly to my field.
+
+Previously, as a Project Intern, I spearheaded a custom solution for AWS cloud cost optimization and mastered Azure Infrastructure provisioning using Terraform. My competencies extend to API management and developing intuitive UI/UX with Angular, ensuring a comprehensive approach to technology solutions that drive efficiency and advancement.
 
 
 # 💻 Tech Stack:
